@@ -49,6 +49,8 @@ namespace GPM.Middleware.Core.Models.Communication
                 {
                     try
                     {
+                        if(state.socketInstance.RemoteEndPoint==null) 
+                            return "";
                         return state.socketInstance.RemoteEndPoint.ToString();
                     }
                     catch (Exception)
