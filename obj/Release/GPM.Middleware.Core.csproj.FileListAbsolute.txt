@@ -1,0 +1,13 @@
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\GPM.Middleware.Core.dll
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\GPM.Middleware.Core.pdb
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\gpm_vibration_module_api.dll
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\Newtonsoft.Json.dll
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\gpm_vibration_module_api.pdb
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\bin\Release\Newtonsoft.Json.xml
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.csproj.AssemblyReference.cache
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.uscClientStateUI.resources
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.csproj.GenerateResource.cache
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.csproj.CoreCompileInputs.cache
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.csproj.CopyComplete
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.dll
+D:\專案\gmm\Code\gmm.projects\GPM.Middleware.Core\obj\Release\GPM.Middleware.Core.pdb
